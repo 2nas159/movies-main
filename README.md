@@ -69,7 +69,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/react-movies.git
+git clone https://github.com/2nas159/movies-main.git
 cd react-movies
 
 ```
